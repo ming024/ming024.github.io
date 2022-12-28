@@ -1,6 +1,15 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"SLT 2021":
+  url: https://ieeexplore.ieee.org/xpl/conhome/9383468/proceeding
+  color: "#2698BA"
+
+"ICASSP 2021":
+  url: https://ieeexplore.ieee.org/xpl/conhome/9413349/proceeding
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"InterSpeech 2021":
+  url: https://www.isca-speech.org/archive/interspeech_2021/index.html
+  color: "#B509AC"
+
+"ICASSP 2022":
+  url: https://ieeexplore.ieee.org/xpl/conhome/9745891/proceeding
+  color: "#00369f"

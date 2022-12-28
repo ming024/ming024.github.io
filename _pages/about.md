@@ -2,24 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Chicago, Illinois, United States
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 20220731_chiaminglake.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <center><p>Jiaming Lake, Taiwan</p></center>
+    <center><p>July 31, 2022</p></center>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Ph.D. student at [Toyota Technological Institute at Chicago (TTIC)](https://www.ttic.edu), working with [Karen Livescu](https://home.ttic.edu/~klivescu/). My research interests cover speech and NLP. Recently, I am particularly interested in the development, analysis, and application of self-supervised representations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!---
+List topics I am currently and previously interested in.
+-->
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining TTIC, I received my Master's degree in Computer Science at [National Taiwan University (NTU)](https://www.csie.ntu.edu.tw/main.php) under the supervision of [Lin-shan Lee](https://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and [Hung-yi Lee](https://speech.ee.ntu.edu.tw/~hylee/index.php) in the [Speech Processing Lab](https://speech.ee.ntu.edu.tw). I also joined the TTS Research Group of Amazon Alexa in Cambridge, UK, as a science intern in the autumn of 2021.
+
+<!---
+Link to people and research groups that I worked with.
+-->
+
+Aside from being a researcher, I am a sports enthusiasts and an amateur athlete. I captained the baseball varsity team of NTU during my undergraduate years, and I am also broadly interested in tennis, hiking, scuba diving, marathon, swimming, badminton, and training!
