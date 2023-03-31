@@ -103,6 +103,9 @@ contact_note: >
 
 google_analytics: G-20JYE3VHJ0 # your Goole Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics: # panelbear analytics site ID (format: XXXXXXXXX)
+visitor_analytics: # visitor analytics site ID
+  - dac2ed68-b929-11ed-b589-901b0edac50a # for http://cmchien.ttic.edu
+  - 10f40097-1bf5-11ec-b589-901b0edac50a # for https://ming024.github.io
 
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
@@ -340,6 +343,7 @@ jekyll-diagrams:
 
 enable_google_analytics: true # enables google analytics
 enable_panelbear_analytics: false # enables panelbear analytics
+enable_visitor_analytics: true # enables visitor analytics
 enable_google_verification: false # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arangement
