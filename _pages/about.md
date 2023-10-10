@@ -6,11 +6,11 @@ subtitle: Chicago, Illinois, United States
 
 profile:
   align: right
-  image: 20220731_chiaminglake.png
+  image: 20230530_santorini.png
   image_circular: false # crops the image to make it circular
   address: >
-    <center><p>Jiaming Lake, Taiwan</p></center>
-    <center><p>July 31, 2022</p></center>
+    <center><p>Santorini, Greece</p></center>
+    <center><p>May 30, 2023</p></center>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
