@@ -1,3 +1,7 @@
+"arXiv":
+  url: https://arxiv.org
+  color: "#39393A"
+
 "SLT 2021":
   url: https://ieeexplore.ieee.org/xpl/conhome/9383468/proceeding
   color: "#2698BA"
@@ -13,3 +17,11 @@
 "ICASSP 2022":
   url: https://ieeexplore.ieee.org/xpl/conhome/9745891/proceeding
   color: "#00369f"
+
+"EMNLP 2023":
+  url: https://2023.emnlp.org
+  color: "#C1292E"
+
+"ASRU 2023":
+  url: http://www.asru2023.org
+  color: "#A6A1F3"

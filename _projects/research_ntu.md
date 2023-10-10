@@ -2,7 +2,7 @@
 layout: page
 title: Speech Processing Laboratory, NTU
 type: time_table
-importance: 3
+importance: 4
 category: research
 
 contents:

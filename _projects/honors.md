@@ -8,6 +8,7 @@ category: honors
 contents:
   - title: Scholarship
     items:
+      - <font class="title font-weight-bold ml-1 ml-md-4">Government Scholarship to Study Abroad</font>, Ministry of Education of Taiwan ($32,000 in 2 years) (2023)
       - <font class="title font-weight-bold ml-1 ml-md-4">Advanced Speech Technologies Scholarship</font>, NTU EECS ($17000) (2021)
       - <font class="title font-weight-bold ml-1 ml-md-4">NTUEE60 Scholarship</font>, NTU EE ($3500) (2016)
   - title: Awards
@@ -21,6 +22,7 @@ contents:
       - <font class="title font-weight-bold ml-1 ml-md-4">Captain of the NTU Baseball Varsity Team</font> (2019 - 2020)
   - title: Non-academic
     items:
+      - <font class="title font-weight-bold ml-1 ml-md-4">1st Place within UChicago‑Affiliated Athletes</font> J.P. Morgan Corporate Challenge 3.5‑Mile Road Race (2023)
       - <font class="title font-weight-bold ml-1 ml-md-4">5th Places</font> (Two‐Time), University Baseball League of Taiwan (equivelent to NCAA Division III) (2019 & 2021)
       - <font class="title font-weight-bold ml-1 ml-md-4">Golden Medal, Men’s Half‐Iron Relay</font>, Yilan National Triathlon Championships (2019)
 ---
