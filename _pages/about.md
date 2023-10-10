@@ -6,7 +6,7 @@ subtitle: Chicago, Illinois, United States
 
 profile:
   align: right
-  image: 20230530_santorini.png
+  image: 20230530_santorini.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <center><p>Santorini, Greece</p></center>
