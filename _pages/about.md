@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I am a 2nd-year Ph.D. student at [Toyota Technological Institute at Chicago (TTIC)](https://www.ttic.edu), where I am fortunate to work with [Karen Livescu](https://home.ttic.edu/~klivescu/). My research interests encompass the fields of speech and natural language processing technologies. Here are some topics I have been focusing on recently:
 
 - **Speech-Text Joint Learning**\
-Can speech models learn better/faster with the aids of text? Do speech-text models learn anything different from speech-only models?
+Can speech models learn better/faster with the aids of text? How should we integrate speech and audio information into pre-trained text models?
 - **Speech Generation**\
 Control and model non-lexical information in generated speech in a more efficient and intuitive way.
 - **Self-Supervised Speech Representations**\

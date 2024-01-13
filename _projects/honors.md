@@ -13,7 +13,8 @@ contents:
       - <font class="title font-weight-bold ml-1 ml-md-4">NTUEE60 Scholarship</font>, NTU EE ($3500) (2016)
   - title: Awards
     items:
-      - <font class="title font-weight-bold ml-1 ml-md-4">2rd Place</font>, IEEE ICASSP 2021 M2VoC Challenge (2021)
+      - <font class="title font-weight-bold ml-1 ml-md-4">Best Student Paper Award</font>, ASRU (2023)
+      - <font class="title font-weight-bold ml-1 ml-md-4">2rd Place</font>, ICASSP M2VoC Challenge (2021)
       - <font class="title font-weight-bold ml-1 ml-md-4">Top 20 Finalist</font>, Trans Action Award (2020)
       - <font class="title font-weight-bold ml-1 ml-md-4">Cathay United Bank Special Award</font>, Make NTU (2019)
       - <font class="title font-weight-bold ml-1 ml-md-4">Dean’s List Awards</font> (Two‐Time), NTU EE (2016 & 2017)

@@ -19,9 +19,13 @@
   color: "#00369f"
 
 "EMNLP 2023":
-  url: https://2023.emnlp.org
+  url: https://aclanthology.org/events/emnlp-2023/
   color: "#C1292E"
 
 "ASRU 2023":
   url: http://www.asru2023.org
   color: "#A6A1F3"
+
+"ICASSP 2024":
+  url: https://2024.ieeeicassp.org
+  color: "#00369f"

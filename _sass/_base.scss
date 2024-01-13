@@ -28,10 +28,12 @@ table {
   td,
   th {
     color: var(--global-text-color);
+    width: 10%;
   }
 
   td {
     font-size: 1rem;
+    width: 90%;
   }
 }
 

@@ -7,7 +7,8 @@ category: research
 
 contents:
   - title: Speech Generation
-    year: 2023 - Present
+    year: 2023
     description:
-      - Worked on universal speech generation and additionally conditioned the model on unnormalized/punctuated transcripts
+      - Worked with Andros Tjanda
+      - Worked on the Voicebox project, augmenting speech generation models with fine‐grained controllability under resource‐limited scenarios.
 ---
