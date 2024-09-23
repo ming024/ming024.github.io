@@ -23,9 +23,21 @@
   color: "#C1292E"
 
 "ASRU 2023":
-  url: http://www.asru2023.org
+  url: https://ieeexplore.ieee.org/xpl/conhome/10388490/proceeding
   color: "#A6A1F3"
 
 "ICASSP 2024":
-  url: https://2024.ieeeicassp.org
+  url: https://ieeexplore.ieee.org/xpl/conhome/10445798/proceeding
   color: "#00369f"
+
+"TACL 2024":
+  url: https://transacl.org/index.php/tacl
+  color: "#828282"
+
+"ACL 2024":
+  url: https://aclanthology.org/events/acl-2024/
+  color: "#C1292E"
+
+"InterSpeech 2024":
+  url: https://www.isca-speech.org/archive/interspeech_2024/index.html
+  color: "#B509AC"

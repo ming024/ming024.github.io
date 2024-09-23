@@ -2,7 +2,7 @@
 layout: page
 permalink: /experience/
 title: experience
-description: Highlights of my education & research experience, honors received, and academic talks I gave. Please find my <a href='/assets/pdf/Chung_Ming_Chien_CV_20231022.pdf'>CV</a> for more information.
+description: Highlights of my education & research experience, honors received, and academic talks I gave. Please find my <a href='/assets/pdf/Chung_Ming_Chien_CV_20240923.pdf'>CV</a> for more information.
 nav: true
 nav_order: 2
 display_categories: [education, research, honors, service, talks]

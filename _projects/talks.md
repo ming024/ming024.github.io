@@ -6,6 +6,10 @@ importance: 1
 category: talks
 
 contents:
+  - title: Few‑Shot Spoken Language Understanding via Joint Speech‑Text Models
+    items:
+      - Midwest Speech and Language Days (Ann Arbor, MI, US, Apr. 2024)
+    slides: slides_chien2023few.pdf
   - title: Self‐Supervised Pre‐Trained Voice Conversion
     items:
       - TTIC Student Workshop (Chicago, IL, US, Nov. 2022)
