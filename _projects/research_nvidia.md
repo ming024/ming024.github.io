@@ -1,14 +1,14 @@
 ---
 layout: page
-title: NVIDIA
+title: NVIDIA NeMo
 type: time_table
-importance: 2
+importance: 3
 category: research
 
 contents:
-  - title: Speech Language Models and Speech Generation
+  - title: Speech Language Models
     year: 2024
     description:
       - Worked with Zhehuai Chen and Jason Li
-      - Augmented pre‑trained Canary LLMs with speech generation capabilities for speech‑to‑speech translation and speech question answering
+      - Augmented NeMo Canary LLMs with speech generation capabilities for speech‑to‑speech translation and speech question answering
 ---

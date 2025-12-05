@@ -41,3 +41,11 @@
 "InterSpeech 2024":
   url: https://www.isca-speech.org/archive/interspeech_2024/index.html
   color: "#B509AC"
+
+"ICLR 2025":
+  url: https://openreview.net/group?id=ICLR.cc/2025/Conference#tab-accept-poster
+  color: "#795548"
+
+"TMLR 2026":
+  url: https://jmlr.org/tmlr/papers/index.html
+  color: "#828282"

@@ -1,5 +1,7 @@
 <ul class="card-text font-weight-light list-group list-group-flush">
+  <ul class="subitems">
     {% for content in entry.contents %}
-      <li class="list-group-item">{{ content }}</li>
+    <li><span class="subitem">{{ content }}</span></li>
     {% endfor %}
+  </ul>
 </ul>
