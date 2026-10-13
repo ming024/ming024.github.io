@@ -6,9 +6,9 @@ importance: 2
 category: research
 
 contents:
-  - title: Factual Speech AI with Duplex Speech Language Models
+  - title: Balance Intelligence with Interactivity in Full-Duplex Speech Language Models
     year: 2025
     description:
       - Worked with Alexandre Défossez and Neil Zeghidour
-      - Built moshi-RAG, the world's first full-duplex speech assistant with Retrieval-Augmented Generation (RAG), resulting in significant improvements in factual accuracy and facilitating generalizability to unseen tasks without compromising interactiveness.
+      - Built <a href="https://arxiv.org/abs/2604.12928">MoshiRAG</a>, the world’s first full‑duplex voice assistant with Retrieval‑Augmented Generation (RAG), significantly improving Moshi’s factuality without compromising interactivity
 ---

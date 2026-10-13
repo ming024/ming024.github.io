@@ -49,3 +49,7 @@
 "TMLR 2026":
   url: https://jmlr.org/tmlr/papers/index.html
   color: "#828282"
+
+"ICML 2026":
+  url: https://icml.cc/Conferences/2026
+  color: "#F58426"

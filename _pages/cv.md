@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Chung_Ming_Chien_CV_20251205.pdf
+permalink: /assets/pdf/Chung_Ming_Chien_CV_20261012.pdf
 title: cv
 nav: true
 nav_order: 4

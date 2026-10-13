@@ -7,10 +7,9 @@ category: research
 
 contents:
   - title: Speech Language Models
-    year: 2023 - Present
+    year: 2024 - Present
     description:
-      - Conducted a comprehensive comparison of SpeechLLM’s capabilities on various speech tasks
-      - Built a duplex speech conversation system composed of <a href="https://openreview.net/forum?id=6WdvfjtNdj">collaborative text and speech LMs</a>
+      - Built a full-duplex speech conversation system composed of <a href="https://openreview.net/forum?id=6WdvfjtNdj">collaborative text and speech LMs</a>
   - title: Joint Speech-Text Representation Learning
     year: 2022 - 2024
     description:

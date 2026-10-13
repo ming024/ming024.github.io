@@ -545,6 +545,14 @@ footer.sticky-bottom {
     margin-bottom: 10px;
   }
 
+  // Give all project thumbnails the same dimension ratio
+  .grid-item .card img {
+    aspect-ratio: 1000 / 500;
+    width: 100%;
+    object-fit: contain;
+    background-color: #fff;
+  }
+
   h2.category {
     color: var(--global-divider-color);
     border-bottom: 1px solid var(--global-divider-color);
